@@ -3443,7 +3443,6 @@ broken-packages:
   - judge # failure in job https://hydra.nixos.org/build/233231777 at 2023-09-02
   - judy # failure in job https://hydra.nixos.org/build/233259826 at 2023-09-02
   - juicy-gcode # failure in job https://hydra.nixos.org/build/295094842 at 2025-04-22
-  - JuicyPixels-blp # failure in job https://hydra.nixos.org/build/233220427 at 2023-09-02
   - JuicyPixels-blurhash # failure in job https://hydra.nixos.org/build/233228377 at 2023-09-02
   - JuicyPixels-canvas # failure in job https://hydra.nixos.org/build/233198693 at 2023-09-02
   - JuicyPixels-util # failure in job https://hydra.nixos.org/build/233200460 at 2023-09-02

@@ -26379,9 +26379,7 @@ self: {
       ];
       description = "BLP format decoder/encoder over JuicyPixels library";
       license = lib.licenses.bsd3;
-      hydraPlatforms = lib.platforms.none;
       mainProgram = "blp2any";
-      broken = true;
     }
   ) { };
 
