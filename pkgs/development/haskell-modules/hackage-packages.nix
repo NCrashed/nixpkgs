@@ -26380,6 +26380,7 @@ self: {
       description = "BLP format decoder/encoder over JuicyPixels library";
       license = lib.licenses.bsd3;
       mainProgram = "blp2any";
+      maintainers = [ lib.maintainers.NCrashed ];
     }
   ) { };
 

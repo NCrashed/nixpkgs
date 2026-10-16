@@ -309,6 +309,8 @@ package-maintainers:
     - agda2hs
     - irc-client
     - shake
+  NCrashed:
+    - JuicyPixels-blp
   phijor:
     - cornelis
   psibi:
