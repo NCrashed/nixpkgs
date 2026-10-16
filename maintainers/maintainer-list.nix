@@ -20728,6 +20728,11 @@
     githubId = 364510;
     name = "Tobias Geerinckx-Rice";
   };
+  NCrashed = {
+    github = "NCrashed";
+    githubId = 2116167;
+    name = "Anton Gushcha";
+  };
   ndavd = {
     email = "email@ndavd.com";
     github = "ndavd";
